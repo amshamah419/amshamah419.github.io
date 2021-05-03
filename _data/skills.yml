@@ -1,0 +1,12 @@
+# Skills
+# Python
+- skill: Python
+  description: I have several years of Python experience to include unit tests, CI, and API integrations.
+
+# Go/React
+- skill: Golang/React
+  description: I used Golang as well as React for several platform projects.
+
+# AWS
+- skill: Amazon Web Services (AWS)
+  description: I wrote a code generation tool to rapidly build platform integrations using the AWS Smithy files used by Botocore.
